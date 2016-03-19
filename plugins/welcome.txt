@@ -1,0 +1,1 @@
+Chào mừng {PLAYER} đã tham gia máy chủ {SERVER}
