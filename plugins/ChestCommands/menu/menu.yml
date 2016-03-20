@@ -188,11 +188,10 @@ permission:
   PERMISSION-MESSAGE: 'You don''t have the correct permission!'
 
 
-menu-close-no-commands-no-lore:
-  NAME: '&6Close the menu'
+menu-close:
+  NAME: '&6&lĐóng'
   ID: redstone lamp
   LORE:
-    - 'Create an item without command,'
-    - 'the GUI will just close.'
+    - '&eĐóng bảng điều khiển'
   POSITION-X: 9
   POSITION-Y: 3
