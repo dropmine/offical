@@ -51,7 +51,7 @@ fixcmd:
   POSITION-Y: 1
 
 
-fixcmd:
+fixallcmd:
   COMMAND: 'fix all'
   NAME: '&a&lSửa tất cả vật phẩm'
   LORE:
