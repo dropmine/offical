@@ -2,13 +2,13 @@
 # +--------------------------------------------------------+ #
 # |           Advanced Achievements language file          | #
 # +--------------------------------------------------------+ #
-configuration-successfully-reloaded: Configuration successfully reloaded.
-configuration-reload-failed: Errors while reloading configuration. Please view logs for more details.
-no-permissions: You do not have the permission to do this.
-top-achievement: 'Top achievement owners:'
-player-rank: 'Current rank:'
-number-achievements: 'Achievements received:'
-book-received: You received your achievements book!
+configuration-successfully-reloaded: Cấu hình đã được làm mới thành công.
+configuration-reload-failed: Lỗi trong khi làm mới cấu hình. Vui lòng xem bản ghi để xem chi tiết hơn.
+no-permissions: Bạn không có quyền để làm điều này.
+top-achievement: 'Chủ sở hữu thành tích hàng đầu:'
+player-rank: 'Thứ hạng hiện tại:'
+number-achievements: 'Đã nhận được thành tựu:'
+book-received: Bạn đã nhận được cuốn sách thành tựu!
 book-delay: You must wait TIME seconds between each book reception!
 list-delay: You must wait TIME seconds between each list command!
 book-name: Achievements
