@@ -7,7 +7,7 @@
 menu-settings:
 
   # name - appears as the title - REQUIRED
-  name: '&1Example menu'
+  name: '&1&lBảng điều khiển'
 
   # rows - the number of rows of the chest - REQUIRED
   rows: 3
@@ -23,7 +23,7 @@ menu-settings:
 
   # This command command will be execute when the menu is opened.
   # Supports all the icon command types.
-  open-action: 'sound: note pling; tell: &eYou opened the example menu.'
+  open-action: 'sound: note pling; tell: &eBạn đã mở bảng điều khiển'
 
   # open-with-item - OPTIONAL
   # The menu will open only right-clicking with orange wool [35:1]
@@ -42,39 +42,33 @@ menu-settings:
 
 spawncmd:
   COMMAND: 'spawn'
-  NAME: '&e/spawn'
+  NAME: '&a&lVề điểm hồi sinh'
   LORE:
-    - 'It justs executes /spawn'
-    - 'as the player who clicked.'
+    - '&2Dịch chuyển bạn đến điểm hồi sinh'
   ID: bed
   POSITION-X: 1
   POSITION-Y: 1
 
 
-colored-enchanted-stacked-wool:
-  NAME: '&aWool with additional data'
+kitcmd:
+  COMMAND: 'open:kit.yml'
+  NAME: '&a&lBộ công cụ'
   LORE:
-    - 'This wool has a data value, an amount'
-    - 'greater than 1, and two enchantments.'
-  ID: wool
+    - '&2Nhận các bộ công cụ như thức ăn, gỗ, công cụ sinh tồn,...'
+  ID: iron_pickaxe
   DATA-VALUE: 1
-  AMOUNT: 10
-  ENCHANTMENT: knockback, 10; durability, 10
+  ENCHANTMENT: unbreaking, 10
   POSITION-X: 2
   POSITION-Y: 1
 
 
-this-text-will-not-appear:
-  NAME: '&dFormatting codes'
+kitcmd:
+  COMMAND: 'open:fix.yml'
+  NAME: '&a&lSửa chữa'
   LORE:
-    - 'You can use all the formatting codes!'
-    - '&fColors: &c#c &a#a &9#9 &e#e &f... ...'
-    - '&fRandom (#k): &kfy379!H'
-    - '&fBold (#l): &lexample'
-    - '&fStrikethrough (#m): &mexample'
-    - '&fUnderline (#n): &nexample'
-    - '&fItalic (#o): &oexample'
-  ID: paper
+    - '&2Sửa chữa vật phẩm với một chi phí nhất định'
+  ID: anvil
+  DATA-VALUE: 1
   POSITION-X: 3
   POSITION-Y: 1
 
