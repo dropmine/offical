@@ -121,8 +121,8 @@ AsyncPooledRequestsSender: true
 # When a player connects during the day.
 Connections:
   '1':
-    Message: You connected to our server for the first time!
-    Name: Good Choice
+    Message: Bạn đã kết nối với máy chủ của chúng tôi trong lần đầu tiên!
+    Name: Sự lựa chọn tuyệt vời
 
 # When a specific block is placed (specify block name, lower case).
 Places:
