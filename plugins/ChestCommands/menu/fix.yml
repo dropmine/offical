@@ -67,6 +67,6 @@ menu-close:
   NAME: '&6&lĐóng'
   ID: redstone lamp
   LORE:
-    - '&2Đóng bảng điều khiển'
+- '&eĐóng bảng điều khiển''
   POSITION-X: 9
   POSITION-Y: 3
