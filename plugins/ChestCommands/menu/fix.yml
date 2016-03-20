@@ -10,7 +10,7 @@ menu-settings:
   name: '&1&lSửa chữa vật phẩm'
 
   # rows - the number of rows of the chest - REQUIRED
-  rows: 1
+  rows: 3
 
   # command - OPTIONAL (you can remove this or set it to '')
   # Bind multiple commands using ; (command: 'menu; m; me')
