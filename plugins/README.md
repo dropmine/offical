@@ -1,3 +1,3 @@
 # Tính năng
 # Lỗi
-- Chưa cập nhật ngônngữ cho Essentials
+- Chưa cập nhật ngôn ngữ cho Essentials
