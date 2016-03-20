@@ -9,18 +9,18 @@ top-achievement: 'Chủ sở hữu thành tích hàng đầu:'
 player-rank: 'Thứ hạng hiện tại:'
 number-achievements: 'Đã nhận được thành tựu:'
 book-received: Bạn đã nhận được cuốn sách thành tựu!
-book-delay: You must wait TIME seconds between each book reception!
-list-delay: You must wait TIME seconds between each list command!
-book-name: Achievements
-player-offline: The player PLAYER is offline!
-achievement-already-received: The player PLAYER has already received this achievement!
-achievement-not-found: The specified achievement was not found.
-achievement-given: Achievement given!
-achievement-received: 'PLAYER received the achievement:'
-achievement-new: 'New Achievement:'
-check-achievement-true: PLAYER has received the achievement ACH!
-check-achievements-false: PLAYER has not received the achievement ACH!
-delete-achievements: The achievement ACH was deleted from PLAYER.
+book-delay: Bạn phải chờ TIME giây giữa mỡi lần nhận sách!
+list-delay: Bạn phải chờ TIME giây giữa mỡi lần liệt kê lệnh!
+book-name: Thành tựu
+player-offline: Người chơi PLAYER đã ngoại tuyến!
+achievement-already-received: Người chơi PLAYER hiện đã nhận được thành tựu này!
+achievement-not-found: Thành tựu đã chỉ định không được tìm thấy.
+achievement-given: Thành tựu đã được đưa!
+achievement-received: 'PLAYER đã nhận được thành tựu:'
+achievement-new: 'Thành tựu mới:'
+check-achievement-true: PLAYER đã nhận được thành tựu ACH!
+check-achievements-false: PLAYER đã không nhận được thành tựu ACH!
+delete-achievements: Thành tựu ACH đã được xoá từ người chơi PLAYER.
 item-reward-received: 'You received an item reward:'
 money-reward-received: 'You received: AMOUNT !'
 command-reward: Reward command carried out!
