@@ -45,6 +45,7 @@ fixcmd:
   NAME: '&a&lSửa vật phẩm trên tay'
   LORE:
     - '&2Sửa vật phẩm trên tay bạn'
+    - '&6Giá:&r &e500$'
   ID: anvil
   PRICE: 500
   POSITION-X: 1
@@ -56,12 +57,13 @@ fixallcmd:
   NAME: '&a&lSửa tất cả vật phẩm'
   LORE:
     - '&2Sửa tất cả các vật phẩm trên tay và trong túi đồ của bạn.'
+    - '&6Giá:&r &e2000$'
   ID: anvil
   PRICE: 2000
   POSITION-X: 2
   POSITION-Y: 1
 
-menu-close-no-commands-no-lore:
+menu-close:
   NAME: '&6&lĐóng'
   ID: redstone lamp
   LORE:
