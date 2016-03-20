@@ -33,19 +33,19 @@ aach-command-reload: Reload the plugin's configuration.
 aach-command-info: Display various information about the plugin.
 aach-command-check: Check if player NAME has &7received ACH.
 aach-command-delete: Delete achievement ACH from &7player NAME.
-version-command-name: 'Name:'
-version-command-version: 'Version:'
+version-command-name: 'Tên:'
+version-command-version: 'Phiên bản:'
 version-command-website: 'Website:'
-version-command-author: 'Author:'
+version-command-author: 'Tác giả:'
 version-command-description: 'Description:'
 version-command-description-details: Advanced Achievements enables unique and challenging achievements. Try to collect as many as you can, earn rewards, climb the rankings and receive RP books!
 version-command-vault: 'Vault integration:'
-version-command-database: 'Database type:'
-list-gui-title: '&5&lAchievements List'
+version-command-database: 'Loại cơ sở dữ liệu:'
+list-gui-title: '&5&lDanh sách thành tựu'
 list-reward: ' Reward:'
-list-reward-money: money
-list-reward-item: item
-list-reward-command: other
+list-reward-money: tiền
+list-reward-item: vật phẩm
+list-reward-command: khác
 list-amount: ' Lvl:'
 list-connections: Connections
 list-places: Blocks Placed
@@ -78,4 +78,4 @@ list-fertilising: Plants Fertilised
 list-taming: Animals Tamed
 list-brewing: Potions Brewed
 list-fireworks: Fireworks Launched
-list-commands: Other Achievements
+list-commands: Thành tựu khác
