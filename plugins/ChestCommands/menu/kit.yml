@@ -61,7 +61,7 @@ tools:
   POSITION-X: 2
   POSITION-Y: 1
 
-menu-close-no-commands-no-lore:
+menu-close:
   NAME: '&6&lĐóng'
   ID: redstone lamp
   LORE:
