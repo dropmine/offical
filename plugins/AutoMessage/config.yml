@@ -1,0 +1,29 @@
+#  ----------------------------------------------------
+#  AutoMessage Configuration File
+#  ----------------------------------------------------
+#  Message Configuration:
+#     Messages are handled in lists to allow for advanced customization!
+#     Feel free to add color codes by using & in your messages!
+#     To split a message onto multiple lines use the \n delimiter!
+#     Lines starting with / will be run as a command!
+#     To add single apostrophes into a message use ''.
+#     For a complete tutorial go to http://dev.bukkit.org/server-mods/automessage.
+#     If you are unfamiliar with YAML use the in-game commands: /am help
+
+settings:
+  enabled: true
+  min-players: 0
+  log-to-console: false
+message-lists:
+  regular:
+    enabled: true
+    interval: 45
+    expiry: -1
+    random: false
+    messages:
+    - '&c&l[Hệ thống]&r &aCảm ơn bạn đã ủng hộ chúng tôi. Chúc bạn có một ngày thật vui vẻ :).&r'
+    - '&6&l[Mẹo]&r &eNhập /kit để nhận bộ công cụ sinh tồn trong thời gian nhất định.&r'
+    - '&c&l[Hệ thống]&r &aNếu phát hiện lỗi hoặc có góp ý, thắc mắc vui lòng liên hệ nhân viên máy chủ đễ được hỗ trợ tốt nhất.&r'
+    - '&6&l[Mẹo]&r &eBạn có thể ngồi lên thang như một cái ghế bằng cách nhấp chuột phải.&r'
+    - '&c&l[Hệ thống]&r &aChúng tôi không cho phép bất kỳ hành động gian lận nào trên máy chủ, nếu phát hiện sẽ bị xử lý theo quy định!&r'
+    - '&6&l[Mẹo]&r &eBạn có thể vào cửa hàng để mua/bán vật phẩm bằng cách gõ /shop.&r'
