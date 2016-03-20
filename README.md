@@ -1,2 +1,3 @@
-# offical
-Offical Server Sources
+# Offical Dropmine Project
+# Tính năng
+* Giới tính
