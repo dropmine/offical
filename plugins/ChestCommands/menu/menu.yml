@@ -62,7 +62,7 @@ kitcmd:
   POSITION-Y: 1
 
 
-kitcmd:
+fixcmd:
   COMMAND: 'open:fix.yml'
   NAME: '&a&lSửa chữa'
   LORE:
