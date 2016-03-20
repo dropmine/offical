@@ -2,10 +2,10 @@ message:
   noPermission: '&7%tag &cLack permission: &b%extra'
   noConsole: '&7%tag &cCannot use command as console'
   notIntenger: '&7%tag &6%extra &cis not an integer'
-  reload: '&7%tag &6Configuration reloaded'
+  reload: '&7%tag &6Cấu hình đã được làm mới'
   broadcast: '&7%tag &9Player &a%player &9has &a%amount &9Points'
   command:
-    unknown: '&7%tag &cUnknown command ''%extra'''
+    unknown: '&7%tag &cLệnh không xác định ''%extra'''
     give: '&7%tag &9/points give <name> <points>'
     giveall: '&7%tag &9/points giveall <points>'
     take: '&7%tag &9/points take <name> <points>'
