@@ -1,1 +1,1 @@
-&c&l[AuthMe]&r &aChào mừng&r &l&2{PLAYER}&r &ađã tham gia máy chủ&r &l&2{SERVER}&r.
+&c&l[AuthMe]&r &aChào mừng&r &2&l{PLAYER}&r &ađã tham gia máy chủ&r &2&l{SERVER}&r.
