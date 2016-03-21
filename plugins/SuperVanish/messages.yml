@@ -13,7 +13,7 @@
 # Important:
 # You must put your messages in quotes if you use colorcodes and/or special characters like colons! Example: 'Hi: &6%p'
 Messages:
-  NoPermissionMessage: '&4Truy cập bị từ chốu! Bạn không được cho phép làm điều này.'
+  NoPermissionMessage: '&4Truy cập bị từ chối! Bạn không được cho phép làm điều này.'
   VanishMessage: '&e%p đã rời khỏi trò chơi.'
   ReappearMessage: '&e%p đã tham gia trò chơi.'
   VanishMessageWithPermission: '&a[SV] %p vanished.'
