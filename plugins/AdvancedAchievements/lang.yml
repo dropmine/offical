@@ -46,23 +46,23 @@ list-reward: ' Reward:'
 list-reward-money: tiền
 list-reward-item: vật phẩm
 list-reward-command: khác
-list-amount: ' Lvl:'
-list-connections: Connections
-list-places: Blocks Placed
-list-breaks: Blocks Broken
-list-kills: Entities Killed
+list-amount: ' Cấp:'
+list-connections: Kết nối
+list-places: Đặt khối
+list-breaks: Phá vỡ khối
+list-kills: Giết thực thể
 list-crafts: Items Crafted
 list-deaths: Number of Deaths
-list-arrows: Arrows Shot
+list-arrows: Bắn cung
 list-snowballs: Snowballs Thrown
-list-eggs: Eggs Thrown
+list-eggs: Ném trứng
 list-fish: Fish Caught
 list-itembreaks: Items Broken
 list-eatenitems: Items Eaten
 list-shear: Sheeps Sheared
-list-milk: Cows Milked
+list-milk: Vắt sữa bò
 list-trades: Number of Trades
-list-anvils: Anvils Used
+list-anvils: Sử dụng đe
 list-enchantments: Items Enchanted
 list-beds: Beds Entered
 list-maxlevel: Max Level Reached
@@ -75,7 +75,7 @@ list-distance-boat: Distance Traveled in a Boat
 list-itemdrops: Items Dropped
 list-hoeplowings: Surface Plowed
 list-fertilising: Plants Fertilised
-list-taming: Animals Tamed
+list-taming: Thuần hoá thú
 list-brewing: Potions Brewed
 list-fireworks: Fireworks Launched
 list-commands: Thành tựu khác
