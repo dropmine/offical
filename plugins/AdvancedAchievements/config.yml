@@ -151,8 +151,8 @@ Breaks:
 Kills:
   zombie:
     '1':
-      Message: '&8The first time you killed a zombie!'
-      Name: The Walking Dead
+      Message: '&8Lần đầu tiên bạn giết một thây ma!'
+      Name: Xác sống
       Reward:
         Money: 1         
         Item: diamond 1
@@ -169,26 +169,26 @@ Crafts:
 # When the player dies.
 Deaths:
   '1':
-    Message: The first time you died!
-    Name: Rest in Peace
+    Message: Lần đầu tiên bạn chết!
+    Name: An nghỉ
     
 # When an arrow is shot.
 Arrows:
   '50':
-    Message: '50 arrows shot!'
-    Name: Arrows Around the Place
+    Message: 'Bắn 50 mũi tên!'
+    Name: Mặt đất đầy mũi tên
     
 # When a snowball is thrown.  
 Snowballs:
   '1000':
-    Message: '1000 snowballs thrown. That''s the spirit!'
-    Name: Winter Addict 
+    Message: '1000 bóng tuyết đã được ném. Đó là tinh thần!'
+    Name: Thích mùa đông
     
 # When an egg is thrown.  
 Eggs:
   '1000':
-    Message: '1000 eggs thrown!'
-    Name: Omelet Addict 
+    Message: '1000 trứng đã được ném!'
+    Name: Thích trứng chiên
     
 # When a fish is caught. 
 Fish:
